@@ -1,0 +1,12 @@
+#cuadro{
+    background: rgba(255, 255, 255, 0.5);
+    border: none;
+}
+#titulo{
+	background: rgba(255, 255, 255, 0.4);
+	color: black;
+	border: none;
+}
+#texto{
+	color: black;
+}
